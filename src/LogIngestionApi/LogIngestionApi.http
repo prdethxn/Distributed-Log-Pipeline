@@ -1,0 +1,6 @@
+@LogIngestionApi_HostAddress = http://localhost:5022
+
+GET {{LogIngestionApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
